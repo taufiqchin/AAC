@@ -1,4 +1,4 @@
-🗣️ AAC
+# Accessible and Augmentative Communication (AAC)
 
 **🧾 Credits & Attributions**
 
