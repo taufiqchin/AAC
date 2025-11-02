@@ -2,8 +2,12 @@
 
 **🧾 Credits & Attributions**
 
-This project aims to support Accessible and Augmentative Communication (AAC) through the use of simple, meaningful visual icons and language resources.
-It combines open-source art, educational design, and AI-assisted image creation to produce tools that can be freely used, shared, and adapted by educators, therapists, and developers.
+This project aims to develop an AAC (Augmentative and Alternative Communication) application is designed to assists individuals with speech or communication difficulties in expressing themselves effectively through categorized icons, text, and voice output
+
+It supports both **Bahasa Malaysia and English**, allowing users to switch languages instantly. Each category displays words or phrases with clear visuals and optional text-to-speech playback, enabling effective daily communication. 
+
+The app is **designed with open-source art and educational principles**, to promote accessible, inclusive, user-friendly and responsive interface that ensures user comfort. The app also remembers language preferences on each launch, offering a smooth and personalized experience ideal for individuals, caregivers, therapists, and educators supporting communication needs.
+
 
 To respect and acknowledge the creators and communities behind the open resources that made this possible, the following attributions are provided.
 
