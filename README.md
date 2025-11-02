@@ -10,19 +10,18 @@ The app is **designed with open-source art and educational principles**, to prom
 
 This AAC app can definitely **serve dual purposes** (therapeutic and educational):
 
-**1. Assistive tool for speech or communication difficulties**
-
+**1. Assistive tool for speech or communication difficulties**  
 - Users who have difficulty speaking or expressing themselves can use icons, text, and voice output to communicate effectively.
 
-**2. Educational tool for learning language and sentences**
-
-- Schools or teachers can use the app to teach sentence formation, vocabulary, and language structure in a fun, visual way.
-
+**2. Educational tool for learning language and sentences**  
+- Schools or teachers can use the app to teach sentence formation, vocabulary, and language structure in a fun, visual way.  
 - Even students without communication difficulties can benefit from visual learning and language practice.
 
+---
 
 
 To respect and acknowledge the creators and communities behind the open resources that made this possible, the following attributions are provided.
+
 
 
 **🎨 Icon Sources**
@@ -53,7 +52,7 @@ Used under SVG Repo’s free commercial-use licence.
 
 Individual icons remain the property of their respective authors, and credit is given collectively to the SVG Repo platform for their open contribution to the design community.
 
-
+---
 **⚙️ Usage Statement**
 
 All OpenMoji and SVG Repo icons are used or adapted in accordance with their open licences.
