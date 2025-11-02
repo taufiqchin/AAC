@@ -8,6 +8,19 @@ It supports both **Bahasa Malaysia and English**, allowing users to switch langu
 
 The app is **designed with open-source art and educational principles**, to promote accessible, inclusive, user-friendly and responsive interface that ensures user comfort. The app also remembers language preferences on each launch, offering a smooth and personalized experience ideal for individuals, caregivers, therapists, and educators supporting communication needs.
 
+This AAC app can definitely **serve dual purposes** (therapeutic and educational):
+
+**1. Assistive tool for speech or communication difficulties**
+
+- Users who have difficulty speaking or expressing themselves can use icons, text, and voice output to communicate effectively.
+
+**2. Educational tool for learning language and sentences**
+
+- Schools or teachers can use the app to teach sentence formation, vocabulary, and language structure in a fun, visual way.
+
+- Even students without communication difficulties can benefit from visual learning and language practice.
+
+
 
 To respect and acknowledge the creators and communities behind the open resources that made this possible, the following attributions are provided.
 
@@ -60,7 +73,7 @@ No proprietary, unlicensed, or restricted materials are used. Every effort has b
 **🧠 Project Note**
 
 This AAC project is part of an ongoing effort to make communication more inclusive, multilingual, and visually intuitive.
-It is intended for integration into mobile and web-based applications, especially for educational or assistive technology purposes.
+It is intended for integration into mobile applications, especially for educational or assistive technology purposes.
 
 By combining open-source visual resources with locally developed content, the project seeks to empower communities to create and share accessible communication tools freely and ethically.
 
